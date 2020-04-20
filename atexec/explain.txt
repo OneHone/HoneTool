@@ -1,0 +1,3 @@
+atexec.exe -h ip -u username -p password -c command
+atexec.exe -h ip -u username -p password -d domain -c command
+atexec.exe -h ip -u username -p password -d domain -c command -s 5000
